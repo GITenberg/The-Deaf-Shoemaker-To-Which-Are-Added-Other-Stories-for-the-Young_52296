@@ -1,0 +1,32 @@
+_repo: The-Deaf-Shoemaker-To-Which-Are-Added-Other-Stories-for-the-Young_52296
+_version: 0.0.1
+alternative_title: The deaf shoemaker, and other stories
+creator:
+  author:
+    agent_name: Barrett, Philip
+    alias: White, Thomas Ward
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '46770'
+    url: http://www.gutenberg.org/2009/agents/46770
+description: ''
+gutenberg_issued: '2016-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52296'
+  lccn: tmp96031632
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Sunday school literature'
+- !lcsh 'Children''s poetry'
+- !lcc 'BV'
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcsh 'Children''s literature -- 19th century'
+- GITenberg
+title: 'The Deaf Shoemaker: To Which Are Added Other Stories for the Young'
+url: http://www.gutenberg.org/ebooks/52296
