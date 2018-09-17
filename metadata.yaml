@@ -1,6 +1,9 @@
 _repo: The-Deaf-Shoemaker-To-Which-Are-Added-Other-Stories-for-the-Young_52296
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The deaf shoemaker, and other stories
+covers:
+- cover_type: archival
+  image_path: 52296-h/images/cover1.jpg
 creator:
   author:
     agent_name: Barrett, Philip
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '46770'
     url: http://www.gutenberg.org/2009/agents/46770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52296#The-Deaf-Shoemaker-To-Which-Are-Added-Other-Stories-for-the-Young
 gutenberg_issued: '2016-06-10'
 gutenberg_type: Text
 identifiers:
